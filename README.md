@@ -29,10 +29,12 @@ This Power BI project, **RetailVision**, is an interactive and dynamic dashboard
 
 | 📌 View | Screenshot |
 |--------|------------|
-| Main Dashboard Overview | ![Dashboard Overview](screenshots/main-dashboard-overview.png) |
-| 15-Day Sales Forecast | ![15-Day Forecast](screenshots/15-day-sales-forecast.png) |
-| Regional Map View | ![Map View](screenshots/regional-sales-performance.png) |
-| Category Insights | ![Category](screenshots/category-wise-sales.png) |
+| Main Dashboard Overview | ![Dashboard Overview]|<img width="1919" height="1079" alt="Screenshot 2025-08-07 122311" src="https://github.com/user-attachments/assets/1ed22e06-ffa4-422d-a8c3-1c7924c494b7" />
+
+| 15-Day Sales Forecast | ![15-Day Forecast] <img width="1919" height="1079" alt="Screenshot 2025-08-07 122311" src="https://github.com/user-attachments/assets/95d11b0a-dae1-4ce5-8c40-6e46045c896a" />
+
+| Regional Map View | <img width="1919" height="1011" alt="Screenshot 2025-08-07 122241" src="https://github.com/user-attachments/assets/f25db979-3f90-43d6-b06e-a72d4dd50515" />
+
 
 ---
 
